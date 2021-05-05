@@ -1,5 +1,7 @@
 "# first-api-with-nodejs-expressjs" 
 
+
+
 In the project directory, you can run:
 
 npm start
@@ -10,7 +12,8 @@ install
 XAMPP - to use Apache Web Server, MySQL
 NodeJS, ExpressJS
 
-
+Deploy web with Surge
+http://quyetkaito.surge.sh/
 
 
 
